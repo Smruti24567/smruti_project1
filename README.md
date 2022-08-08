@@ -1,1 +1,1 @@
-# smruti_project1
+# smruti
